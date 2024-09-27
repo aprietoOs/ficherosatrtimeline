@@ -1,0 +1,348 @@
+{"items": [
+    {
+        "country": "España",
+        "sentiment": "Positive",
+        "latitude": 0,
+        "county": "Alicante",
+        "sourceTitle": "ELCHE",
+        "idSearch": 34,
+        "source": "elche.es",
+        "media": "",
+        "title": "Una decena de menores saharauis llegan a Elche para ... Ayuntamiento de Elche https://www.elche.es \u203a Home",
+        "idCategory": 49,
+        "tags": [
+            {
+                "subtag": "Cultura",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Salud y Bienestar",
+                "tag": "Productos turísticos"
+            }
+        ],
+        "displayUrl": "https://www.elche.es/2022/07/una-decena-de-menores-saharauis-llegan-a-elche-para-disfrutar-este-verano-de-unas-vacaciones-en-paz/",
+        "shareCount": 0,
+        "dateCreated": "26/07/2022 12:06:00",
+        "stats": {
+            "statValue": 30.959750000000003,
+            "statEngagementAvg": 0,
+            "statEngagementSocial": 0,
+            "statEngagement": 0
+        },
+        "entities": [],
+        "street": "Plaça de Baix 1 Elche",
+        "text": "... El programa \u2018vacaciones en Paz\u2019, impulsado por el Ayuntamiento de Elche y la Asociación de Ayuda al Pueblo Saharaui, se retoma tras el parón de la pandemia con la llegada a la ciudad de una decena de niños y ni-ñas saharauis, que este año pasarán el verano con familias de acogida del municipio. El alcalde, Carlos González, el concejal de Derechos Soci-les, Mariano Valera, la presidenta de la Asociación de Ayuda al Pueblo Saharaui, Ángela Carrillo, y el delegado Saharaui de Alicante, Lehbib Ali Salem, así como miembros del Equipo de Gobierno han recibido esta tarde en Salón de Plenos del Ayuntamiento de Elche a los menores procedentes de los campos de refugiados del Sáhara y a sus familias de acogida que hasta el mes de septiembre llevarán a cabo diversas actividades en la ciudad ilicitana. ... Por su parte, la presidenta de la asociación Ayuda al Sahara Occidental de Elche, Ángela Carrillo, ha agradecido la colaboración del Ayuntamiento y ha insistido en la \u201cnecesaria cooperación institucional para reforzar este importante programa de hermanamiento y aumentar el número de niños acogidos\u201d. Según ha recordado Carrillo, este programa tiene un importante carácter humanitario, debido a las condiciones de extrema dureza que se sufre en los campamentos de refugiados con carencias de todo tipo y ha manifestado la importancia de continuar apoyando al pueblo saharaui una vez termine el programa. ... Asimismo, Lehbib Ali Sale ha resaltado la solidaridad que siempre ha mostrado Elche con la causa del pueblo saharaui y mostró su satisfacción de que este programa se haya podido retomar tras dos años de ausencia por la pandemia. ... En elche.es se utilizan cookies mayoritariamente con finalidades técnicas. Si da su consentimiento, también usamos cookies de análisis para poder ofrecerle un mejor servicio. En muy pocas ocasiones se instalan cookies de márquetin. Las cookies, propias o de terceros, nos permiten mejorar el rendimiento de los sitios web y recoger información analítica para adecuarnos a sus hábitos de navegación. Puede seleccionar las preferencias que crea convenientes, y aceptar su selección. Política de Cookies ... elche.es ... elche.es ... Las cookies de marketing se utilizan para rastrear a los visitantes a través de las webs. La intención es mostrar anuncios que sean relevantes y atractivos para el usuario individual y, por tanto, más valiosos para los editores y los anunciantes de terceros. ... elche.es ... elche.es ... elche.es ... elche.es ... elche.es ... Las cookies de análisis ayudan a los propietarios de las webs a comprender cómo interactúan los visitantes con las webs recopilando y facilitando información de forma anónima. ... elche.es ... La cookie _ga, instalada por Google Analytics, calcula los datos de visitantes, sesiones y campañas y también realiza un seguimiento del uso del sitio para el informe analítico del sitio. La cookie almacena información de forma anónima y asigna un número generado aleatoriamente para reconocer a visitantes únicos.",
+        "user": {
+            "globalRank": 354383,
+            "industryRank": 44,
+            "domainAuthority": 54,
+            "trustFlow": 33,
+            "aveValue": 48.0336833409608,
+            "pagesPerVisit": 5.266346415109439,
+            "name": "elche.es",
+            "industry": "food_and_drink/food_and_drink",
+            "dailyVisits": 3262,
+            "trafficSourceSearch": 63.946163512272534,
+            "avgVisitDuration": "00:05:16",
+            "bounceRate": 47.709122095708715
+        },
+        "longitude": 0,
+        "ocr": []
+    },
+    {
+        "country": "España",
+        "sentiment": "Negative",
+        "latitude": 0,
+        "county": "Castellón",
+        "sourceTitle": "BURRIANA",
+        "idSearch": 20,
+        "source": "burriana.es",
+        "media": "",
+        "title": "L'alcaldessa de Borriana visita als xiquets i xiquetes que ... Ayuntamiento de Burriana https://www.burriana.es \u203a 6101-la...",
+        "idCategory": 40,
+        "tags": [
+            {
+                "subtag": "Cultura",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Familiar",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Gastronomia",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Música (festivales",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Salud y Bienestar",
+                "tag": "Productos turísticos"
+            }
+        ],
+        "displayUrl": "https://www.burriana.es/va/ajuntament/47-noticias/serveis-socials/6101-la-alcaldesa-visita-a-los-ninos-y-ninas-que-participan-en-l-escola-d-estiu-2",
+        "shareCount": 0,
+        "dateCreated": "20/07/2022 11:40:00",
+        "stats": {
+            "statValue": 12.5245,
+            "statEngagementAvg": 0,
+            "statEngagementSocial": 0,
+            "statEngagement": 0
+        },
+        "entities": [],
+        "street": "Plaza Mayor 1 Burriana",
+        "text": "... L'alcaldessa de Borriana visita als xiquets i xiquetes que participen en l'Escola d'Estiu ... L'alcaldessa de Borriana, Maria Josep Safont, ha visitat els 380 xiquets i xiquetes del municipi que enguany participen en l'Escola d'Estiu municipal de Borriana en la XXXVI edició que se celebra enguany en el CEIP Novenes de Calatrava. També ha assistit l'edila de Serveis Socials, Esther Meneu. ... En la visita Safont ha manifestat que l'Escola d'Estiu de Borriana és \u201cun exemple tant per la implicació dels professionals que la duen endavant, com per la confiança que els pares i mares hi depositen\u201d, i l'ha qualificada com el projecte \u201cmés rellevant per a les famílies de Borriana en aquesta època de l'any\u201d. ... Així mateix, ha destacat la seua contribució a la conciliació de la vida familiar i laboral de les més de 300 famílies que amb l'arribada de les vacances escolars tenen dificultats i ha volgut posar en valor el \u201cprestigi\u201d de l'Escola d'Estiu aconseguit en aquests anys perquè els seus professionals \u201chan sabut crear espais d'inclusió on conviuen xiquets, xiquetes i adolescents del municipi, i on l'educació, la diversió, l'esport i les activitats socials i cíviques conviuen en perfecta harmonia\u201d. ... Durant el recorregut per les diferents aules del centre educatiu, els representants municipals han pogut comprovar la gran varietat d'activitats i tallers dissenyats per a cadascuna de les edats. Així, han tingut ocasió de conèixer un dels tallers infantils organitzats enguany, concretament sobre els mosquits impartit per Lokímica que ha comptat també amb la assistència de la regidora de Sanitat, Lolín Carbonell, amb la intenció que apliquen els coneixements adquirits en prevenció en arribar a la llar familiar i que ha collit gran acceptació per part dels xiquets i xiquetes. ... També han preparat nombroses activitats lúdiques i manuals, tallers i excursions, amb classes d'anglès per als diferents nivells, tallers de música, competicions esportives, eixides a la piscina, al barri antic, jocs, esports, xarrades, o classes de repàs, són algunes de les activitats programades en aquesta iniciativa. ... Durant la visita a més les representants municipals han presenciat el lliurament de diplomes del curs d'Educació Viària impartit per la Policia Local en l?escola d\u2019Estiu, en què s'ensenya les normes bàsiques de la seguretat viària, amb classes teòriques amb exercicis, la projecció de vídeos i les pràctiques amb bicicletes a través d'un parc instal·lat a tal efecte al pati de l'escola.",
+        "user": {
+            "globalRank": 2161996,
+            "industryRank": 0,
+            "domainAuthority": 0,
+            "trustFlow": 0,
+            "aveValue": 12.5245,
+            "pagesPerVisit": 0,
+            "name": "burriana.es",
+            "industry": "",
+            "dailyVisits": 0,
+            "trafficSourceSearch": 0,
+            "avgVisitDuration": "00:00:00",
+            "bounceRate": 55.820689096658924
+        },
+        "longitude": 0,
+        "ocr": []
+    },
+    {
+        "country": "España",
+        "sentiment": "Negative",
+        "latitude": 0,
+        "county": "",
+        "sourceTitle": "SECRETHUNTER",
+        "idSearch": 7,
+        "source": "secrethunter.es",
+        "media": "",
+        "title": "escape Room Alicante SECRET HUNTER ¡Los mejores ... Secret Hunter escape Room Alicante https://secrethunter.es",
+        "idCategory": 32,
+        "tags": [{
+            "subtag": "Salud y Bienestar",
+            "tag": "Productos turísticos"
+        }],
+        "displayUrl": "https://secrethunter.es/",
+        "shareCount": 0,
+        "dateCreated": "20/07/2022 11:03:01",
+        "stats": {
+            "statValue": 0,
+            "statEngagementAvg": 0,
+            "statEngagementSocial": 0,
+            "statEngagement": 0
+        },
+        "entities": [],
+        "street": "",
+        "text": "SECRET HUNTER escape ROOM ALICANTE: ELIGE TU AVENTURA ... Juegos de escape en Alicante ... LOCAL 2 (KM 18): C/ Victor de la Serna 26 03006 Alicante",
+        "user": {
+            "globalRank": 1598444,
+            "industryRank": 0,
+            "domainAuthority": 0,
+            "trustFlow": 0,
+            "aveValue": 0.8325,
+            "pagesPerVisit": 0,
+            "name": "secrethunter.es",
+            "industry": "",
+            "dailyVisits": 0,
+            "trafficSourceSearch": 0,
+            "avgVisitDuration": "00:00:00",
+            "bounceRate": 0
+        },
+        "longitude": 0,
+        "ocr": []
+    },
+    {
+        "country": "España",
+        "sentiment": "Negative",
+        "latitude": 0,
+        "county": "Barcelona",
+        "sourceTitle": "LASOCI",
+        "idSearch": 7,
+        "source": "lasoci.org",
+        "media": "",
+        "title": "visitas Culturales Alicante, visita el Aeropuerto M. Hernández la Soci https://www.lasoci.org \u203a visitas-culturales-alicante-visita-...",
+        "idCategory": 32,
+        "tags": [
+            {
+                "subtag": "Cultura",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Salud y Bienestar",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Sol y Playa",
+                "tag": "Productos turísticos"
+            }
+        ],
+        "displayUrl": "https://www.lasoci.org/es/visitas-culturales-alicante-visita-el-aeropuerto-m-hernandez/",
+        "shareCount": 0,
+        "dateCreated": "14/07/2022 11:03:00",
+        "stats": {
+            "statValue": 15.086750000000002,
+            "statEngagementAvg": 0,
+            "statEngagementSocial": 0,
+            "statEngagement": 0
+        },
+        "entities": [],
+        "street": "Filadors 35-41 7-2",
+        "text": "... El perfil de las salidas que se proponen siempre procuran cumplir con tres elementos indispensables: que estén en un lugar que llame la atención, por su singularidad o temática, que presente un contenido de interés por conocido o descubierto por el grupo y que la visita, sobre todo, se convierta en una experiencia entretenida. ... Fieles a este esquema, la penúltima salida de la sección alicantina para explicaros es la que se hizo en el Aeropuerto de Alicante-Elche Miguel Hernández: \u201cHemos recorrido toda la instalación acompañados de un guía que nos lo ha explicado todo sobre el aeropuerto\u201d, explica la delegada. ... visita completa ... \u201cAdemás, también hemos visitado el centro SATE, es decir, el Sistema Automatizado de Tratamiento de Equipajes y, ciertamente, ha resultado una visita amena, entretenida y muy interesante\u201d. ... excursiones y visitas Culturales Alicante, despega con fuerza! ... Este sitio web utiliza Google Analytics para recopilar información anónima como el número de visitantes del sitio y las páginas más visitadas. El mantener esta cookie habilitada nos ayuda a mejorar el sitio web.",
+        "user": {
+            "globalRank": 1160120,
+            "industryRank": 0,
+            "domainAuthority": 0,
+            "trustFlow": 0,
+            "aveValue": 15.086750000000002,
+            "pagesPerVisit": 0,
+            "name": "lasoci.org",
+            "industry": "",
+            "dailyVisits": 0,
+            "trafficSourceSearch": 0,
+            "avgVisitDuration": "00:00:00",
+            "bounceRate": 28.03403216691422
+        },
+        "longitude": 0,
+        "ocr": []
+    },
+    {
+        "country": "España",
+        "sentiment": "Positive",
+        "latitude": 0,
+        "county": "Alicante",
+        "sourceTitle": "BENIGESTREALESTATE",
+        "idSearch": 40,
+        "source": "benigestrealestate.com",
+        "media": "",
+        "title": "10 Things to do in Guardamar del Segura Benigest Real Estate https://www.benigestrealestate.com \u203a ...",
+        "idCategory": 52,
+        "tags": [
+            {
+                "subtag": "Cultura",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Naturaleza",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Salud y Bienestar",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Sol y Playa",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Turismo Azul",
+                "tag": "Productos turísticos"
+            }
+        ],
+        "displayUrl": "https://www.benigestrealestate.com/blog/costa-blanca/10-things-to-do-in-guardamar-del-segura/",
+        "shareCount": 0,
+        "dateCreated": "11/07/2022 12:29:00",
+        "stats": {
+            "statValue": 2.9785000000000004,
+            "statEngagementAvg": 0,
+            "statEngagementSocial": 0,
+            "statEngagement": 0
+        },
+        "entities": [],
+        "street": "",
+        "text": "The seaside town of Guardamar del Segura is located at the mouth of the river Segura in the Alicante Province on the Costa Blanca. This beautiful resort is set next to a large pine forest alongside an 11km long white sandy beach. ... Whether you are looking for a location to live permanently or just to visit on holiday, Guardamar Segura is an ideal location with plenty of things to do all year round. ... We\u2019ve put together a list of 10 things to do in Guardamar del Segura\u2026 ... visit the beach ... The top thing to do in Guardamar del Segura has to be to visit the beach, and there are plenty to choose from. There are even 3 blue flag beaches in Guardamar \u2013 Platja dels Vivers, Playa Centro, El Moncayo, and La Roqueta. With golden sands and crystal clear sea you won\u2019t want to leave! ... explore Parque Reina Sofia ... In the centre of Guardamar del Segura is a fantastic park called Parque Reina Sofia. Here you will find a large children\u2019s play park, picnic benches, and lakes and waterfalls with lots of wildlife including ducks, swans, and turtles. As you walk around the park you will also spot peacocks and red squirrels. ... visit the Archaeological Museum ... You will be spoilt for choice when looking for a restaurant in Guardamar del Segura, with cuisines catering for all tastes. ... visit the night market ... If you are visiting Guardamar in the summer months you will find a wonderful night market in the main road alongside the Parque Reina Sofia. These wooden stalls sell everything from jewelry and clothes to gadgets and home accessories. ... Summer in Spain means fiestas, and Guardamar is no exception! If you are visiting the town during July and August you can be sure to find a party to join in with. ... As you can see, there is so much to do in Guardamar del Segura! To find out more about what\u2019s going on in the area make sure you follow us on Facebook , Instagram , and subscribe to our newsletter!",
+        "user": {
+            "globalRank": 11057876,
+            "industryRank": 0,
+            "domainAuthority": 0,
+            "trustFlow": 0,
+            "aveValue": 3.6630000000000003,
+            "pagesPerVisit": 0,
+            "name": "benigestrealestate.com",
+            "industry": "",
+            "dailyVisits": 0,
+            "trafficSourceSearch": 0,
+            "avgVisitDuration": "00:00:00",
+            "bounceRate": 56.22088259310475
+        },
+        "longitude": 0,
+        "ocr": []
+    },
+    {
+        "country": "España",
+        "sentiment": "Negative",
+        "latitude": 0,
+        "county": "Alicante",
+        "sourceTitle": "MODOTRAVELLER",
+        "idSearch": 46,
+        "source": "modotraveller.com",
+        "media": "",
+        "title": "Qué ver y hacer en Villajoyosa Modo traveller https://modotraveller.com \u203a que-ver-y-hacer-en-villajoy...",
+        "idCategory": 55,
+        "tags": [
+            {
+                "subtag": "Cultura",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Familiar",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Gastronomia",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "MICE",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Naturaleza",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Salud y Bienestar",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Sol y Playa",
+                "tag": "Productos turísticos"
+            },
+            {
+                "subtag": "Turismo Azul",
+                "tag": "Productos turísticos"
+            }
+        ],
+        "displayUrl": "https://modotraveller.com/que-ver-y-hacer-en-villajoyosa/",
+        "shareCount": 0,
+        "dateCreated": "06/07/2022 12:32:00",
+        "stats": {
+            "statValue": 4.218,
+            "statEngagementAvg": 0,
+            "statEngagementSocial": 0,
+            "statEngagement": 0
+        },
+        "entities": [],
+        "street": "",
+        "text": "... Hola traveller! Hace poco estuvimos disfrutando de unos días en familia en un paraíso muy cerquita de casa: Villajoyosa o La Vila, como se conoce popularmente. ... Villajoyosa es un municipio alicantino entre El Campello y Benidorm. Su particular ubicación costera, protegida por las montañas, hace que su clima sea uno de los más soleados de España. Aunque quizá, debido a su archi popular vecino, ha pasado desapercibido durante mucho tiempo, pero eso no le resta en atractivos y encanto. ... De hecho, su nombre significa «ciudad alegre», y los vileros disfrutan de su vida tranquila, lejos del turismo de masas de Benidorm, a través de sus 15km de costa, de sol, historia y tradición. ... visitar La Vila es integrarse en su estilo de vida. Es pasear, es saborear, es oler a chocolate, es observar\u2026 observar la belleza de un pueblo pesquero del Mediterráneo. ... Un poquito de historia de Villajoyosa ... Villajoyosa es el único municipio alicantino cuyo casco antiguo termina a orillas del mar. Desde la playa se pueden observar las tradicionales casas de colores de Villajoyosa que hacen tan característica esta localidad. (No podrás evitar hacerte allí una foto). Uno de los aspectos que le hacen más especial es que siempre hay multitud de gaviotas sobrevolando el casco antiguo, haciendo una estampa digna de fotografiar. ... Qué hacer en Villajoyosa ... Pasear por el casco antiguo de Villajoyosa ... recorrer sus calles y observar sus fachadas coloridas es uno de los imprescindibles en tu visita a Villajoyosa. El casco antiguo está declarado Bien de Interés Cultural. No es de extrañar, porque no podrás evitar fotografiar cada rincón. ... recorrer sus playas ... Como he comentado al principio del artículo, La Vilajoiosa posee una fuerte tradición chocolatera. Motivo principal por el que el municipio tiene un delicioso aroma a este manjar\u2026 Así que apúntate esta actividad para hacer en Villajoyosa sí o sí: Actualmente se pueden visitar las tres fábricas de chocolate que siguen en funcionamiento. ... La más popular e internacional es Chocolates Valor, donde también posee el Museo del Chocolate. Durante la visita, harás un recorrido desde la selva donde nace el cacao hasta la actualidad. Incluso conocerás el proceso de recogida del cacao y su tratamiento, así como las herramientas que se usaban antiguamente para trabajarlo. ... También es posible observar desde lo alto la fábrica en funcionamiento, aunque para pillarlos en activo debes ir entre semana. La visita culmina en su tienda donde podrás degustar divesos tipos de cacao y su amplia gama de chocolates\u2026 ¡te volverás loco/a con tantas posibilidades! Yo me llevé una degustación de chocolates del mundo a casa (y otros tantos caprichitos). ... La visita es gratuita pero te recomiendo reservar a través de su web para no quedarte sin plaza. Nosotros no pudimos reservar por la web y tuvimos la suerte de que falló gente del grupo que estaba entrando y pudimos entrar, si no\u2026 ¡nos hubiéramos quedado sin catarlo! ... Otra de las fábricas de chocolate con mayor trayectoria en Villajoyosa es Chocolates Pérez. Mucho más pequeñita que la anterior pero no menos importante. De tradición familiar, llevan desde 1892 elaborando chocolate artesano. Durante la visita, puedes conocer todo el proceso de fabricación del cacao y otros productos como la leche o la almendra. Chocolates Pérez cuenta con el sello de Artesanía de la Comunitat Valenciana y actualmente lo regenta la 4ª generación, quienes conservan la tradición familiar en la artesanía, pero buscando nuevas formas de innovación. ... La visita también es gratuita e incluye una cata y una exposición de sus productos a la venta que puedes comprar. (Pídeles que te saquen su «choconardo», un bombón de chocolate con absenta). ... Por último, también puedes visitar Chocolates Clavileño, otra tradicional fábrica de chocolate de más de 130 años de historia. Para conocer cómo lo elaboran y descubrir su museo, puedes reservar cita en su web . ... recorrer el patrimonio cultural de La Vila ... Otra de las actividades que puedes hacer en Villajoyosa es contratar un free tour. En tan solo dos horas podrás descubrir los rincones más emblemáticos e históricos de la ciudad. Desde las Termas Romanas de Allon hasta sus murallas renacentistas. También podrás aprender sobre sus populares fiestas y monumentos. ... Puedes reservar aquí tu free tour y ser un experto en Villajoyosa! ... No puedes visitar La Vila y no probar lo mejor de su gastronomía: el pescado de su bahía. Como localidad pesquera, tradicionalmente la mesa se llenaba con recetas marineras y hoy siguen siendo los platos más demandados. ... Te recomiendo pedir el Menú Arrocero para disfrutar de varios de sus platos a buen precio. ¡No olvides reservar con antelación! ... Con más de 50 años de tradición, son un referente de la cocina de Villajoyosa por su calidad, servicio y localización frente al mar. ... Dónde dormir en Villajoyosa ... En Villajoyosa hay varios hoteles y alojamientos, aunque son muy comunes los apartamentos para estancias más familiares. ... ¿Qué os ha parecido? ¿Os ha gustado La Vila? Espero que os hayan gustado todos los planes para hacer en Villajoyosa. De verdad, es uno de los municipios más bonitos de nuestra terreta y es perfecto para unas vacaciones de desconexión, relax y en familia. (y para escapadas gourmet, por supuesto!). ... Si tienes alguna duda o necesitas ayuda para organizar tu escapada a Villajoyosa, no dudes en contactar con nosotros! ... 🔸 ORGANIZA TU viajE A ALICANTE CON NOSOTROS 🔸 ... reserva tu alojamiento en Alicante desde aquí . ... Contrata actividades y excursiones en España desde aquí . ... Contrata un FREE tour en España desde aquí . ... Ahorra un 5% de descuento en Seguros Mondo si contratas tu seguro de viajes desde aquí . ... viaja con internet con una una tarjeta SIM o eSIM de HolaFly con un descuento del 5% haz clic en SIM o eSIM y escoge tu favorita. ... Publicista de formación y viajera por pasión. Soy creadora de contenidos freelance, principalmente para el sector turismo y gastronomía. No concibo un viaje sin cámara en mano y así lo plasmo en mi blog de viajes www.modotraveller.com",
+        "user": {
+            "globalRank": 8633034,
+            "industryRank": 0,
+            "domainAuthority": 0,
+            "trustFlow": 0,
+            "aveValue": 4.218,
+            "pagesPerVisit": 0,
+            "name": "modotraveller.com",
+            "industry": "",
+            "dailyVisits": 0,
+            "trafficSourceSearch": 0,
+            "avgVisitDuration": "00:00:00",
+            "bounceRate": 51.34664003618003
+        },
+        "longitude": 0,
+        "ocr": []
+    }
+]}
