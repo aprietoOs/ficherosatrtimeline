@@ -1,0 +1,13 @@
+﻿RESIDENCE_KEY,LANGUAGE_KEY,RESIDENCE_DES,LOAD_TIME
+-3,1,No Informado,
+1,1,Residentes en España,
+2,1,Residentes en el extranjero,
+3,1,Todos,
+-3,2,Not Informed,
+1,2,Residents in Spain,
+2,2,Residents abroad,
+3,2,All,
+-3,3,No Informat,
+1,3,Residents a Espanya,
+2,3,Residents a l'estranger,
+3,3,Tots,
