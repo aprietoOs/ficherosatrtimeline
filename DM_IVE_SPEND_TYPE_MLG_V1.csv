@@ -1,0 +1,16 @@
+SPEND_TYPE_KEY,LANGUAGE_KEY,SPEND_TYPE_DES
+-3,1,No Informado
+1,1,Duración media de los viajes
+2,1,Gasto medio diario por persona (euros)
+3,1,Gasto medio por persona (euros)
+4,1,Gasto total (millones de euros)
+-3,2,Not Informed
+1,2,Average trip length
+2,2,Average daily expenditure per person (euros)
+3,2,Average expenditure per person (euros)
+4,2,Total expenditure (million euros)
+-3,3,No Informat
+1,3,Duració mitjana dels viatges
+2,3,Gasto mig diari per persona (euros)
+3,3,Gasto mitjà per persona (euros)
+4,3,Gasto total (milions d'euros)

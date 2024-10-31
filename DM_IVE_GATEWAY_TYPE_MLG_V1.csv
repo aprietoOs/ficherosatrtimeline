@@ -1,0 +1,25 @@
+GATEWAY_TYPE_KEY,LANGUAGE_KEY,GATEWAY_TYPE_DES
+-3,1,No Informado
+1,1,Aeropuerto
+2,1,Carretera
+3,1,Aeropuerto Alicante - Elche
+4,1,Aeropuerto València
+5,1,Todas las vías de acceso
+6,1,Transporte marítimo
+7,1,Transporte por ferrocarril
+-3,2,Not Informed
+1,2,Airport
+2,2,Road
+3,2,Alicante - Elche Airport
+4,2,València Airport
+5,2,All access roads
+6,2,Maritime transport
+7,2,Rail transport
+-3,3,No Informat
+1,3,Aeroport
+2,3,Carretera
+3,3,Aeroport Alacant - Elx
+4,3,Aeroport València
+5,3,Totes les vies d'accés
+6,3,Transport marítim
+7,3,Transport per ferrocarril
