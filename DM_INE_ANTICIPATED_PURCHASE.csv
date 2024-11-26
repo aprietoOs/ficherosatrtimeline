@@ -1,9 +1,0 @@
-﻿PURCHASE_KEY,PURCHASE_ID,PURCHASE_DES,LOAD_TIME
--3,*********,No Informado,
-1,1,En el mismo día,
-2,2,de 2 a 7 días,
-3,3,de 8 a 15 días,
-4,4,de 16 a 30 días,
-5,5,de 31 a 90 días,
-6,6,Más de 3 meses,
-7,7,No procede,
