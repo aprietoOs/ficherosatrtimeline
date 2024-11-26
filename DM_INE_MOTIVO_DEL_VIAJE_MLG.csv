@@ -1,4 +1,4 @@
-﻿MOTIVO_VIAJE_KEY,ID,LANGUAGE_KEY,MOTIVO_DES,MOTIVO_PADRE_DES,LOAD_TIME
+MOTIVO_VIAJE_KEY,ID,LANGUAGE_KEY,MOTIVO_DES,MOTIVO_PADRE_DES,LOAD_TIME
 -3,-3,1,No informado,No informado,
 1,299072,1,Turismo de sol y playa,"Ocio, recreo y vacaciones",
 2,299073,1,Turismo cultural,"Ocio, recreo y vacaciones",
@@ -45,7 +45,7 @@
 11,299081,2,Other education and training reasons,Other reasons,
 12,304779,2,Voluntary health treatment,Other reasons,
 13,299082,2,Religious reasons or pilgrimages,Other reasons,
-14,-2,2,,Other reasons,
+14,-2,2,Incentives,Other reasons,
 15,292705,2,Personal reasons,Other reasons,
 16,299084,2,"Congresses, fairs and conventions",Business and other professional reasons,
 17,299085,2,Commuting to work,Business and Other professional reasons,
@@ -77,7 +77,7 @@
 11,299081,3,Altres motius d'educació i formació,Altres motius,
 12,304779,3,Tractament de salut voluntari,Altres motius,
 13,299082,3,Motius religiosos o peregrinacions,Altres motius,
-14,-2,3,,Altres motius,
+14,-2,3,Incentius,Altres motius,
 15,292705,3,Motiu personal,Altres motius,
 16,299084,3,"Congressos, fires i convencions",Negocis i Altres motius professionals,
 17,299085,3,Desplaçament al centre de treball,Negocis i Altres motius professionals,
