@@ -1,0 +1,6 @@
+﻿PROFFESIONAL_STATUS_KEY,PROFFESIONAL_STATUS_ID,PROFFESIONAL_STATUS_DES,LOAD_TIME
+-3,*********,No Informado,
+1,1,"Empresario, profesional o trabajador por cuenta propia que emplea a otras personas",
+2,2,"Empresario, profesional o trabajador por cuenta propia que no emplea a otras personas",
+3,3,Asalariado o trabajador por cuenta ajena con contrato indefinido,
+4,4,Asalariado o trabajador por cuenta ajena con contrato eventual o temporal,

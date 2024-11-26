@@ -1,0 +1,11 @@
+﻿NIVEL_INGRESOS_KEY,ID,ID_ETR,NOMBRE,LOAD_TIME
+-3,-3,*********,No informado,
+1,291541,1,Hasta 999 euros,
+2,8778,2,De 1.000 a 1.499 euros,
+3,311236,3,De 1.500 a 2.499 euros,
+4,311237,4,De 2.500 a 3.499 euros,
+5,311238,5,De 3.500 a 4.999 euros,
+6,8783,6,5.000 euros o más,
+7,311245,-2,2.500 euros o más,
+8,20227,-2,Total,
+9,311239,9,No consta,
